@@ -1,7 +1,7 @@
 {"dna":"0011000100",
 "name":"Dorms_Pass",
 "description":"This is an NFT made by the coolest generative code.",
-"image":"http://192.168.1.60/NFT/metadata/1.png",
+"image":"https://github.com/nielsdev/testRepository/blob/main/nft-pass.jpeg"
 "edition":1,
 "date":1642123856043,
 "attributes":[{"trait_type":"Dorms.com Member",

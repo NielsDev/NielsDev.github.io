@@ -1,6 +1,6 @@
 {"name":"Dorms_Pass",
 "description":"This is an NFT made by the coolest coder.",
-"image":"https://github.com/nielsdev/testRepository/blob/main/nft-pass.jpeg"
+"image":"https://nielsdev.github.io/nft-pass.jpg"
 "edition":1,
 "attributes":[{"trait_type":"Dorms.com Member",
 "value":"VIP"}]}
